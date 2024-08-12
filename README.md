@@ -30,7 +30,7 @@ The `run.sh` script is a shell script that automates the execution of a Python a
 ﻿
 First, clone the repository containing the `run.sh` script to your local machine. Use the following command:
 ```sh
-git clone https://github.com/your-repository/project.git
+git clone https://github.com/project.git
 cd project
 ```
 ﻿
